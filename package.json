@@ -1,0 +1,22 @@
+{
+  "name": "@tw-grid/react",
+  "version": "0.0.0-alpha.0",
+  "description": "Performant and flexible data grid for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "TW-Grid",
+  "bugs": {
+    "url": "https://github.com/tw-grid/react/issues"
+  },
+  "homepage": "https://twgrid.com",
+  "license": "MIT",
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tw-grid/react.git",
+    "directory": "packages/react"
+  }
+}
